@@ -1,4 +1,4 @@
-//Bot, 4toby ty ne bazaril, pidor
+
 let TelegramBot = require('node-telegram-bot-api');
 
 const token = '577520450:AAGWAK4o4Yb01c21FkjuJH2WSVoblWhbCd8';
